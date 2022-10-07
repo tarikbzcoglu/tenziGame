@@ -32,6 +32,7 @@ export default function App() {
     for (let i = 0; i < 10; i++) {
         newDice.push(generateNewDie())
     }
+    
   return newDice  
   }
   
@@ -60,7 +61,7 @@ export default function App() {
     }
 }
     
-  
+    
   return (
     
     <main>
