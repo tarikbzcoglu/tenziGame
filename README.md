@@ -11,7 +11,7 @@
    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png" height="60px" alt="trollface" border="0" />
    <hr/>
   </p>
-  📷Screenshots
+  <h3>📷Screenshots</h3>
   <hr/>
 <a href="https://ibb.co/vqY8BDY"><img src="https://i.ibb.co/6wB5ZNB/screensh.jpg" alt="screensh" border="0" /></a>
 <hr/>
