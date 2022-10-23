@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/tarikbzcoglu/memeGenerator">
+  <a href="https://github.com/tarikbzcoglu/tenziGame">
    <img src="https://ilovetenzi.com/wp-content/uploads/2017/12/tenzi-logo-002.png" width="150px" alt="trollface" border="0" />
   </a>
 
